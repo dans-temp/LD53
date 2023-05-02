@@ -1,4 +1,4 @@
-# Ludum Dare 53
+# Ludum Dare 52
 
 To run:
 1. Clone this repository
